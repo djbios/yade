@@ -7,7 +7,7 @@ name = "yade"
 authors = [{name = "djbios", email = "dorandval@gmail.com"}]
 classifiers = ["License :: OSI Approved :: MIT License"]
 dynamic = ["version", "description"]
-description-file = "README.md"
+readme = "README.MD"
 
 [project.urls]
 Home = "https://github.com/djbios/yade"

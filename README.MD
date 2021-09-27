@@ -9,6 +9,7 @@ DJANGO__REST_FRAMEWORK__PAGE_SIZE  # Dict value
 DJANGO__AUTH_PASSWORD_VALIDATORS__0__NAME  # List value
 ```
 True/False or ints (0,1,2...) values of env variables will be converted to python type (bool or int).
+Json like arrays like `[1, 2, 3]`are supported too.
 
 ## Installation
 `pip install yade`
